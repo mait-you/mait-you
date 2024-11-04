@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## 💫 About Me:
+  # 💫 About Me:
   👋 Hi! I’m Mohamed Ait Youssef, a student at 1337 (42) and a software developer who loves learning and building creative projects. I'm excited to keep testing my knowledge and discovering new things in programming. I enjoy working on open-source projects and sharing my code with others. I focus on writing clean, simple code that runs well. Follow me to see my projects and growth!
   
   # 💻 Tech Stack:
