@@ -31,7 +31,7 @@
 ---
 
 ### 📊 **GitHub Stats:**
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=mait-you&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mait-you&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 </div>
@@ -49,10 +49,10 @@
 ---
 
 ### 🎯 **Fun Projects**:
-- 🛠️ [Project Name 1](#) – *Short description of your project*.
-- 🌐 [Project Name 2](#) – *Short description of your project*.
+- 🛠️ [LOGIN_REGISTER_SYSTEM_IYORE](https://github.com/mait-you/LOGIN_REGISTER_SYSTEM_IYORE) – *Short description of your project*.
+- 🌐 [IYORE_MOVIES](https://github.com/mait-you/IYORE_MOVIES) – *Short description of your project*.
 
 ---
 
 ### 📬 **Contact Me:**
-If you’d like to connect or collaborate, feel free to reach out on my socials or email me at **mait-you@student.42.fr**.
+If you’d like to connect or collaborate, feel free to reach out on my socials or email me at **mohamedaityoussef.ap06@gmail.com**.
