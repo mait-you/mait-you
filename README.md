@@ -1,3 +1,6 @@
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+</a>
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
   <br/>
@@ -56,3 +59,7 @@
 
 ### 📬 **Contact Me:**
 If you’d like to connect or collaborate, feel free to reach out on my socials or email me at **mohamedaityoussef.ap06@gmail.com**.
+
+<a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
+</a>
