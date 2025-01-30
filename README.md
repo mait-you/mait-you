@@ -12,10 +12,9 @@
 ---
 
 ### 💫 **About Me:**
-👋 Hi! I’m **Mohamed Ait Youssef**, a **Computer Science student** at **1337 (42)** and a **software & front-end developer** passionate about learning and creating innovative projects.
+👋 Hi! I’m **Mohamed Ait Youssef**, a **Computer Science student** at **1337 (42)** and a **software developer** passionate about learning and creating innovative projects.
 
 - 🔭 I’m currently exploring **open-source contributions**.
-- 🌱 I’m learning **React.js**, **Node.js**, and **Algorithms**.
 - 💡 I enjoy **problem-solving** and **building scalable applications**.
 - 🤝 I’m open to **collaborating** on interesting projects.
 - ⚡ Fun fact: **I believe debugging is like being a detective! 🕵️‍♂️**
