@@ -12,7 +12,7 @@
 ---
 
 ### 💫 **About Me:**
-👋 Hi! I’m **Mohamed Ait Youssef**, a **Computer Science student** at **1337 (42)** and a **software developer** passionate about learning and creating innovative projects.
+👋 Hi! I’m **Mohamed Ait Youssef**, a **Computer Science student** at **1337 | UM6P | 42 The Network** and a **software developer** passionate about learning and creating innovative projects.
 
 - 🔭 I’m currently exploring **open-source contributions**.
 - 💡 I enjoy **problem-solving** and **building scalable applications**.
@@ -22,9 +22,14 @@
 ---
 
 ### 📊 **GitHub Stats:**
+
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mait-you&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mait-you&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+    <a href="https://github.com/mait-you">
+      <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mait-you&show_icons=true&theme=tokyonight&card_width=250">
+    </a>
+    <a href="https://github.com/mait-you">
+      <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mait-you&layout=compact&theme=tokyonight&card_width=250">
+    </a>
 </div>
 
 ---
