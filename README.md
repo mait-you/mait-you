@@ -42,6 +42,8 @@
   <a href="https://facebook.com/mait-you"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mait-you&label=Profile%20views&color=0e75b6&style=flat" alt="mait-you" /> </p>
+
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
 </a>
