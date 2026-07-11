@@ -1,0 +1,19 @@
+{
+	viewer {
+		login
+		followers {
+			totalCount
+		}
+		repositories(first: 100) {
+			totalCount
+			
+			nodes {
+				name
+				stargazerCount
+				primaryLanguage {
+					name
+				}
+			}
+		}
+	}
+}

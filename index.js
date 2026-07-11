@@ -1,5 +1,5 @@
-const axios = require('axios');
-require('dotenv').config();
+import axios from 'axios';
+import 'dotenv/config';
 
 async function main() {
 	try {
@@ -17,7 +17,7 @@ async function main() {
 		console.log('Username:', user.login);
 		console.log('Followers:', user.followers);
 		console.log('Repositories:', user.public_repos);
-			
+
 	} catch (error) {
 		if (error.response) {
 			console.log('Status:', error.response.status, error.response.statusText);
