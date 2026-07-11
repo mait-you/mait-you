@@ -1,0 +1,6 @@
+<svg width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+    <text x="20" y="30">{{LOGIN}}</text>
+    <text x="20" y="55">{{FOLLOWERS}}</text>
+    <text x="20" y="80">{{REPOS}}</text>
+    <text x="20" y="105">{{STARS}}</text>
+</svg>
